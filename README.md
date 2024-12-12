@@ -31,6 +31,6 @@ Assignment-2 is about data visualization and sales report creation using power B
   # 4. Table Creation for Visualization  
 1. Created Tables projecting sum of sales across city,region,state and market.   
 2. Created Table showing ship mode,sum of shipping cost and total shipping percentage.
-  # 5. Card Creation for showing Total shipping Percentage based on ship mode.
-1. Created separate card to show Total shipping Percentage based on Ship mode.
+  # 5. Card Creation for showing Total sum of Sales.
+1. Created separate card to show sum of Total sum of Sales.
   # 6. Created a video explaining the visualizations.   
