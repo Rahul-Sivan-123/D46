@@ -52,7 +52,7 @@ Assignment-3 provides a comprehensive analysis of Airbnb data,such as pricing an
 4. Plotted table showing details of host_name,neighbourhood, Sum of Reviews per Month and Apartment name.
 5. Included necessary slicers like room_type, id, apartment, neighbourhood.
 6. Created Cards showing separate count of apartment, average number of reviews and count of no: of days available.
-7. Created Bookmark for Top 5 apartments. (Shown as separate button for easy selesction).
+7. Created Bookmark for Top 5 apartments. (Shown as separate button for easy selection).
   # 3.  Dynamic Pricing Insights by Room Type & Property
 1. Plotted Coloumn Chart showing Average price variation by Room_type.
 2. Plotted linechart showing Average price variation of apartment.
