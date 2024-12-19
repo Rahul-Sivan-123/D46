@@ -73,11 +73,11 @@ Created New york city airbnb analysis report incorperating necessary details lik
    Identified the areas with the most expensive listings and how the prices vary across neighborhoods and by room_type.
  # 2. Availability:
    Analyzed the distribution of listings that are highly available throughout the year (No: of days available).
-# 3. Geographical Distribution:
+ # 3. Geographical Distribution:
    Identified the geographical distribution of proprties in neighbourhood and it's variation by price,room_type,availability etc.
-# 4. Review and Rating Analysis:
+ # 4. Review and Rating Analysis:
    Identified the average review rating,review frequency and the relationship with price and quality.
-# 5. Top 5 Listings:
+ # 5. Top 5 Listings:
     Identified top 5 apartments by review (Added bookmark for easy navigation).
 
   
