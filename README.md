@@ -78,7 +78,7 @@ Created New york city airbnb analysis report incorperating necessary details lik
  # 4. Review and Rating Analysis:
    Identified the average review rating,review frequency and the relationship with price and quality.
  # 5. Top 5 Listings:
-    Identified top 5 apartments by review (Added bookmark for easy navigation).
+   Identified top 5 apartments by review (Added bookmark for easy navigation).
 
   
 
